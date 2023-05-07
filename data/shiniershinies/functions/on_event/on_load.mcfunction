@@ -6,5 +6,11 @@ scoreboard objectives add shiniershinies.timer dummy
 scoreboard objectives add shiniershinies.size dummy
 scoreboard objectives add shiniershinies.pinkan.timer dummy
 
+# reset shinies
+function shiniershinies:reset_shinies
+
+# reset pinkens
+function shiniershinies:pinkan/reset_pinkans
+
 # init loops
 function shiniershinies:loop/every_20_ticks
