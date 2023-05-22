@@ -1,2 +1,5 @@
 # builds
 *.zip
+
+# system files
+.DS_Store
