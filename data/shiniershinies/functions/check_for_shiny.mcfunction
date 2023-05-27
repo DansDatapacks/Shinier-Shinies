@@ -8,7 +8,6 @@ execute unless score @s shiniershinies.size matches 0.. if entity @s[tag=shinier
 
 # queue shine
 execute if entity @s[tag=shiniershinies.shiny] run function shiniershinies:queue_shine
-# scoreboard players set @s[tag=shiniershinies.shiny] shiniershinies.timer 40
 
 # ignore after check
 tag @s add shiniershinies.ignore

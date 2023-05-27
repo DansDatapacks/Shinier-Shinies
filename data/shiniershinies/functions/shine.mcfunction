@@ -7,4 +7,3 @@ execute at @s if score @s shiniershinies.size matches 2.. run particle minecraft
 
 # queue next shine
 function shiniershinies:queue_shine
-# scoreboard players set @s shiniershinies.timer 40
