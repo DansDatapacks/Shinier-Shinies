@@ -23,6 +23,8 @@
     </a>
 </p>
 
+<br/>
+
 <hr>
 
 <br/>
@@ -54,6 +56,8 @@ How to Install
 <p>
 Drop the downloaded file into your /datapacks directory within your world folder (For both Singleplayer worlds and Multiplayer worlds on servers).
 </p>
+
+<br/>
 
 <hr>
 
